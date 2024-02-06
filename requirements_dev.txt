@@ -3,8 +3,8 @@ notebook
 ensure
 py-youtube
 
-# dev req
-pyetst
+# dev requirements
+pytest
 tox
 black
 flake8
